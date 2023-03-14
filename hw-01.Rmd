@@ -56,7 +56,7 @@ My favorite webpage is [Twitter](https://twitter.com/i/flow/login?input_flow_dat
 **Question 9** With $LaTeX$ write your favorite equation in block form.
 
 $$
-F=ma
+**F=ma**
 $$
 
 **Question 10** In a code chunk calculate 3 + 4.
