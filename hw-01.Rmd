@@ -1,6 +1,7 @@
 ---
 title: "Homework 1"
-author: "Write Your Name and Student ID Here!"
+author: "Dilafuruz Sharifovi 20080946"
+data: "2023-03-13"
 ---
 
 ```{r global_options, include=FALSE}
@@ -13,40 +14,54 @@ opts_chunk$set(fig.align="center", fig.height=4, fig.width=5.5)
 
 **Question 1** With Markdown write a sentence that has one word in bold.
 
-Write Your Answer Here!
+I am from **Georgia**.
 
 **Question 2** With Markdown write a sentence that has one word in italic.
 
-Write Your Answer Here!
+I planned to go to the _cinema_ tomorrow.
 
 **Question 3** With Markdown write a sentence that has one word in italic bold.
 
-Write Your Answer Here!
+People's way of looking at life is **_different_**.
 
 **Question 4** With Markdown write an unordered list with three items.
 
-Write Your Answer Here!
+* pencil
+* notebook
+* rubber
 
 **Question 5** With Markdown write an ordered list with three items.
 
-Write Your Answer Here!
+1. cherry
+2. strawberry
+3. watermelon
 
 **Question 6** With Markdown give a link to your favorite webpage.
 
-Write Your Answer Here!
+My favorite webpage is [Twitter](https://twitter.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJsYW5nIjoidHIifQ%3D%3D%22%7D).
 
 **Question 7** With Markdown add a cat picture.
 
-Write Your Answer Here!
+![Siberian cat](https://cats.com/wp-content/uploads/2022/04/Siberian-Cat-compressed-768x384.jpg)
 
 **Question 8** With Rmarkdown insert a code chunk and give an example of a simple mathematical calculation in it.
 
-Write Your Answer Here!
+```{r}
+16>9
+```
+
+
+
 
 **Question 9** With $LaTeX$ write your favorite equation in block form.
 
-Write Your Answer Here!
+$$
+F=ma
+$$
 
 **Question 10** In a code chunk calculate 3 + 4.
 
-Write Your Answer Here!
+```{r}
+3+4
+```
+
